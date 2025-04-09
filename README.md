@@ -2,6 +2,7 @@
 # Titulo do projeto
 
 Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
+Este projeto foi feito com o intuito de aprender JavaScript e a manipular o DOM. O projeto foi contruido junto com um curso da plataforma da Alura.
 
 ## 🔨 Funcionalidades do projeto
 
