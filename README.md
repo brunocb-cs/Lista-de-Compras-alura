@@ -14,10 +14,6 @@ A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo 
 - `CSS`: estilização da aplicação;
 - `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
 
-## 📁 Acesso ao projeto
-
-
-
 ## 🛠️ Abrir e rodar o projeto
 
 Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, no menu superior, clique em:
